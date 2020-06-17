@@ -7,11 +7,9 @@ using System.Threading.Tasks;
 namespace LeetCode_code_review
 {
     //https://leetcode.com/problems/permutations-ii/
+    // just ineficient fasteer then 5%.
     class Permutation2
     {
-        public class Solution
-        {
-
             IList<IList<int>> permutations;
 
             public IList<IList<int>> PermuteUnique(int[] nums)
@@ -56,5 +54,4 @@ namespace LeetCode_code_review
                 Console.WriteLine();
             }
         }
-    }
 }
