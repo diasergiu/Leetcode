@@ -44,7 +44,7 @@ namespace LeetCode_code_review
                 }
 
             }
-            private void print(List<int> printList)
+            private void Print(List<int> printList)
             {
 
                 foreach (int i in printList)

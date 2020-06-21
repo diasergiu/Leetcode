@@ -44,6 +44,8 @@
   <ItemGroup>
     <Compile Include="1Permutation2.cs" />
     <Compile Include="2.Subarray Product_Less_Than_K.cs" />
+    <Compile Include="3Sum.cs" />
+    <Compile Include="MainClass.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
